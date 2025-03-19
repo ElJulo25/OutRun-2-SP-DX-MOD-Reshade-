@@ -1,6 +1,8 @@
 # OutRun-2-SP-DX-MOD-Reshade-
 OutRun 2 SP DX MOD (Reshade Presets)
-This mod is inpire by the quality and the colors of the Outrun 2 SP SDX version. You have the tutorial inside the zip !
+
+It's User Friendly DX9 presets. For newcomers or those who don't have powerfull setup or don't want to get into complicated stuff.
+This mod is inpire by the quality and the colors of the Outrun 2 SP SDX version. You have the detailled tutorial inside the zip !
 
 Thanks to emoose for the amazing Tweaks version !
 Thanks to Howard Casto for the FXT version.
